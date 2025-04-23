@@ -29,17 +29,17 @@ Lu J, Xu B, Zhang X, et al. Facilitating fine-grained detection of Chinese toxic
 
 ### 文件介绍（File Introduction）
 
-**swsr-male：** 由男性标注者独立进行的，对SWSR数据集的毒性二分类重新标注；This subset of the SWSR dataset was re-annotated for binary toxicity classification by male annotators independently
+**SWSR-MALE：** 由男性标注者独立进行的，对SWSR数据集的毒性二分类重新标注；This subset of the SWSR dataset was re-annotated for binary toxicity classification by male annotators independently
 
-**toxicn-male：** 由男性标注者独立进行的，对Toxicn数据集的毒性二分类重新标注；This subset of the Toxicn dataset was re-annotated for binary toxicity classification by male annotators independently
+**TOXICN-MALE：** 由男性标注者独立进行的，对Toxicn数据集的毒性二分类重新标注；This subset of the Toxicn dataset was re-annotated for binary toxicity classification by male annotators independently
 
-**swsr-female：** 由女性标注者独立进行的，对SWSR数据集的毒性二分类重新标注；This subset of the SWSR dataset was re-annotated for binary toxicity classification by female annotators independently
+**SWSR-FEMALE：** 由女性标注者独立进行的，对SWSR数据集的毒性二分类重新标注；This subset of the SWSR dataset was re-annotated for binary toxicity classification by female annotators independently
 
-**toxicn-female：** 由女性标注者独立进行的，对Toxicn数据集的毒性二分类重新标注；This subset of the Toxicn dataset was re-annotated for binary toxicity classification by female annotators independently
+**TOXICN-FEMALE：** 由女性标注者独立进行的，对Toxicn数据集的毒性二分类重新标注；This subset of the Toxicn dataset was re-annotated for binary toxicity classification by female annotators independently
 
-**swsr-男女标注相异：** SWSR数据集标注完成后，将男性标注结果与女性标注结果进行比较，筛选出男女标注结果相异的部分；After the annotation of the SWSR dataset was completed, the annotations by male and female annotators were compared, and the parts with differing results were selected
+**SWSR-男女标注相异：** SWSR数据集标注完成后，将男性标注结果与女性标注结果进行比较，筛选出男女标注结果相异的部分；After the annotation of the SWSR dataset was completed, the annotations by male and female annotators were compared, and the parts with differing results were selected
 
-**toxicn-男女标注相异：** Toxicn数据集标注完成后，将男性标注结果与女性标注结果进行比较，筛选出男女标注结果相异的部分；After the annotation of the Toxicn dataset was completed, the annotations by male and female annotators were compared, and the parts with differing results were selected
+**TOXICN-男女标注相异：** Toxicn数据集标注完成后，将男性标注结果与女性标注结果进行比较，筛选出男女标注结果相异的部分；After the annotation of the Toxicn dataset was completed, the annotations by male and female annotators were compared, and the parts with differing results were selected
 
 ---
 

@@ -7,9 +7,9 @@ The re-annotated versions of two classic Chinese datasets (SWSR and TOXICN), wit
 中文数据集的重新标注（SWSR与TOXICN），每个数据集由男性，女性分别标注，可用于分析不同性别标注的差异性，以及在使用预训练模型时对模型的影响。
 
 ---
-## 原数据集：
+## 原数据集论文及链接（Original dataset paper and link）：
 
-### SWSR 数据集 - SWSR-Dataset
+### SWSR 数据集 - （SWSR-Dataset）
 
 **Reference:**
 Jiang A, Yang X, Liu Y, et al. SWSR: A Chinese dataset and lexicon for online sexism detection[J]. Online Social Networks and Media, 2022, 27: 100182.
@@ -18,7 +18,7 @@ Jiang A, Yang X, Liu Y, et al. SWSR: A Chinese dataset and lexicon for online se
 
 ---
 
-### TOXICN 数据集 - TOXICN-Dataset
+### TOXICN 数据集 - （TOXICN-Dataset）
 
 **Reference:**
 Lu J, Xu B, Zhang X, et al. Facilitating fine-grained detection of Chinese toxic language: Hierarchical taxonomy, resources, and benchmarks[J]. arxiv preprint arxiv:2305.04446, 2023.
@@ -27,7 +27,7 @@ Lu J, Xu B, Zhang X, et al. Facilitating fine-grained detection of Chinese toxic
 
 ---
 
-### 文件介绍
+### 文件介绍（File Introduction）
 
 **swsr-male：** 由男性标注者独立进行的，对SWSR数据集的毒性二分类重新标注；This subset of the SWSR dataset was re-annotated for binary toxicity classification by male annotators independently
 **toxicn-male：** 由男性标注者独立进行的，对Toxicn数据集的毒性二分类重新标注；This subset of the Toxicn dataset was re-annotated for binary toxicity classification by male annotators independently

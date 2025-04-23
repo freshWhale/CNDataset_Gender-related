@@ -4,7 +4,7 @@
 
 The re-annotated versions of two classic Chinese datasets (SWSR and TOXICN), with each dataset annotated by males and females respectively. They can be used to analyze the differences in annotations by different genders and their impact on models.
 
-中文数据集的重新标注（SWSR与TOXICN），每个数据集由男性，女性分别标注，可用于分析不同性别标注的差异性，以及在使用预训练模型时对模型性能指标的影响。
+中文数据集的重新标注（SWSR与TOXICN），每个数据集由男性，女性分别标注，可用于分析不同性别标注的差异性，以及在使用预训练模型时对模型性能的影响。
 
 ---
 ## 原数据集论文及链接（Original dataset paper and link）：

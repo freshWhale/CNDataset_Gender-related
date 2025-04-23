@@ -1,11 +1,53 @@
 # CNDataset_Gender-related
 
-## English
+## Introduction
 
 The re-annotated versions of two classic Chinese datasets (SWSR and TOXICN), with each dataset annotated by males and females respectively. They can be used to analyze the differences in annotations by different genders and their impact on models.
 
+中文数据集的重新标注（SWSR与TOXICN），每个数据集由男性，女性分别标注，可用于分析不同性别标注的差异性以及对模型的影响。
+
+---
+## 原数据集：
+
+### SWSR 数据集 - SWSR-Dataset
+
+**Reference:**
+Jiang A, Yang X, Liu Y, et al. SWSR: A Chinese dataset and lexicon for online sexism detection[J]. Online Social Networks and Media, 2022, 27: 100182.
+
+**GitHub Download Link:** [SWSR Dataset](https://zenodo.org/records/4773875)
+
 ---
 
-## 中文
+### TOXICN 数据集 - TOXICN-Dataset
 
-中文数据集的重新标注（SWSR与TOXICN），每个数据集由男性，女性分别标注，可用于分析不同性别标注的差异性以及对模型的影响。
+**Reference:**
+Lu J, Xu B, Zhang X, et al. Facilitating fine-grained detection of Chinese toxic language: Hierarchical taxonomy, resources, and benchmarks[J]. arxiv preprint arxiv:2305.04446, 2023.
+
+**GitHub Download Link:** [TOXICN Dataset](https://github.com/DUT-lujunyu/ToxiCN)
+
+---
+
+### Cite
+
+**SWSR:**
+A. Jiang, X. Yang, Y. Liu and A. Zubiaga (2021). SWSR: A Chinese Dataset and Lexicon for Online Sexism Detection. Under review
+
+**TOXICN:**
+```bibtex
+@inproceedings{lu-etal-2023-facilitating,
+    title = "Facilitating Fine-grained Detection of {C}hinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks",
+    author = "Lu, Junyu  and
+      Xu, Bo  and
+      Zhang, Xiaokun  and
+      Min, Changrong  and
+      Yang, Liang  and
+      Lin, Hongfei",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.898",
+    doi = "10.18653/v1/2023.acl-long.898",
+    pages = "16235--16250",
+}
